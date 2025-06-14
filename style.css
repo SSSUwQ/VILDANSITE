@@ -329,7 +329,7 @@ body {
   filter: drop-shadow(0 0 5px #2aabee);
 }
 
-.gold-footer {
+.footer {
   background: linear-gradient(135deg, #FFD700, #FFA500);
   color: #111;
   text-align: center;
